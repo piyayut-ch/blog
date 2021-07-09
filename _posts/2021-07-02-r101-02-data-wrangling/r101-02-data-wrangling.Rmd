@@ -1,0 +1,30 @@
+---
+title: "R101-02: Data Wrangling"
+description: |
+  Learn to do basic data wrangling tasks using grammar of data manipulation.
+author:
+  - name: Piyayut Chitchumnong
+    url: https://github.com/piyayut-ch
+date: 2021-07-02
+categories:
+  - R101
+  - Tutorial
+  - Data Wrangling
+  - tidyverse
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

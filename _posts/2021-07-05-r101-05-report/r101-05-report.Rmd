@@ -1,0 +1,30 @@
+---
+title: "R101-05: Present a result"
+description: |
+  Learn to put all your analysis and findings into a report using rmarkdown and shiny.
+author:
+  - name: Piyayut Chitchumnong
+    url: https://github.com/piyayut-ch
+date: 2021-07-05
+categories:
+  - R101
+  - Tutorial
+  - rmarkdown
+  - shiny
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

@@ -1,0 +1,30 @@
+---
+title: "R101-03: Data Visualization"
+description: |
+  Learn to make good data visualization using grammar of graphics.
+author:
+  - name: Piyayut Chitchumnong
+    url: https://github.com/piyayut-ch
+date: 2021-07-03
+categories:
+  - R101
+  - Tutorial
+  - Data Visualization
+  - ggplot2
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
